@@ -1,2 +1,2 @@
 # CPU-Scheduling
-FCFS, SJF, SRTF and RR algorithm implementation
+Implementation of FCFS, SJF, SRTF and RR algorithms
